@@ -1,0 +1,14 @@
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\bin\Debug\net7.0\YourProjectName.exe
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\bin\Debug\net7.0\YourProjectName.deps.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\bin\Debug\net7.0\YourProjectName.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\bin\Debug\net7.0\YourProjectName.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\bin\Debug\net7.0\YourProjectName.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\refint\YourProjectName.dll
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.pdb
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\YourProjectName.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\dojo_assignments\c#\linq\obj\Debug\net7.0\ref\YourProjectName.dll
